@@ -1,0 +1,2 @@
+# GPA
+Work in Progress Application. Intention of the application is to function as the calculator. The calculator is to help students find out there overall grade point average during their times in college. The Grading Scale is from 1 to 4. A 1 equals a D which is a 60 or higher. A 2 equals  a C which is a 70 or higher. A 3 equals an B which is an 80 or higher. A 4 is equal to an A which is a 90 or higher.
